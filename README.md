@@ -1,6 +1,6 @@
 # Conocimiento de Frontera
 
-Blog estático de lecturas y opinión para GitHub Pages.
+Blog de lecturas y opinión para GitHub Pages.
 
 ## Apartados
 - `index.html`: portada editorial del blog.
